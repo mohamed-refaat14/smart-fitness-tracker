@@ -1,7 +1,8 @@
 [project]
 name = "smart-fitness-tracker"
 version = "0.1.0"
-description = " application for tracking workouts, nutrition, goals, and fitness progress."readme = "README.md"
+description = "A web application for tracking workouts, nutrition, goals, and fitness progress."
+readme = "README.md"
 requires-python = ">=3.12,<3.13"
 dependencies = [
     "email-validator>=2.3.0",
